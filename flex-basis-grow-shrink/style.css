@@ -63,9 +63,10 @@ body {
 
 .box1 {
     flex-basis: 400px;
-    flex-grow: 1;
+    flex-grow: 10;
 }
 
 .box2 {
-    flex-basis: 400px
+    flex-basis: 400px;
+    flex-grow: 1;
 }
