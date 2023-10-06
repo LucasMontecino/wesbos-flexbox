@@ -5,6 +5,7 @@ html {
 body {
     margin: 0;
     background-color: #77D9BD;
+    box-sizing: inherit;
 }
 
 .box {
@@ -62,6 +63,7 @@ body {
 
 .box1 {
     flex-basis: 400px;
+    flex-grow: 1;
 }
 
 .box2 {
